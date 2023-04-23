@@ -21,3 +21,5 @@ inspiration: https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 FGSM : `White-box` attack with the goal of `misclassification`.<br>
 
 `Fast Gradient Sign Attack`: Use gradient of the loss w.r.t input data, then adjust the inputs to maximize the loss
+
+<br> In this repo we implement FGSM on the FashionMNIST dataset
